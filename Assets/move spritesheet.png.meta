@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: e41b148d825a0ca45a1423031d9de3e6
+timeCreated: 1444497458
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: move spritesheet_0
+    21300002: move spritesheet_1
+    21300004: move spritesheet_2
+    21300006: move spritesheet_3
+    21300008: move spritesheet_4
+    21300010: move spritesheet_5
+    21300012: move spritesheet_6
+    21300014: move spritesheet_7
+    21300016: move spritesheet_8
+    21300018: move spritesheet_9
+    21300020: move spritesheet_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: move spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1527
+        width: 387
+        height: 377
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: move spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1527
+        width: 422
+        height: 375
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: move spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1529
+        width: 476
+        height: 375
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: move spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1535
+        width: 450
+        height: 369
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: move spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 844
+        width: 462
+        height: 372
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: move spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 844
+        width: 472
+        height: 378
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: move spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 848
+        width: 462
+        height: 374
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: move spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 852
+        width: 450
+        height: 370
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: move spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 185
+        width: 436
+        height: 375
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: move spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 185
+        width: 475
+        height: 375
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: move spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 185
+        width: 386
+        height: 377
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
