@@ -46,7 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\BreakPlatScript.cs" />
+     <Compile Include="Assets\BreakingPlatforms\BreakPlatScript.cs" />
      <Compile Include="Assets\Pixelplacement\iTween\iTweenExtensions.cs" />
      <Compile Include="Assets\TrapScript.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />

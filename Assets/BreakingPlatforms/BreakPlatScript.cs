@@ -2,12 +2,16 @@
 using System.Collections;
 
 public class BreakPlatScript : MonoBehaviour {
-
+	public int[] BreakValues;
 	public Sprite[] sprites;
 	float timer;
+	int[] BreakValuesConst;
 	// Use this for initialization
 	void Start () {
-	
+		for (int x = 0; x < 4; x++) {
+			BreakValuesConst[x] = BreakValues[x];
+		}
+
 	}
 	
 	// Update is called once per frame
